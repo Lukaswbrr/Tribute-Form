@@ -1,0 +1,33 @@
+body {
+  background-color: white;
+  background-image: url(https://wallpapercat.com/w/full/4/e/9/185978-3840x2160-desktop-4k-moon-background-photo.jpg);
+}
+
+#center-img {
+  margin: 0 auto;
+  display: block;
+  padding: 10px;
+}
+
+p, h1, h2, h3, h4, h5, li, ul {
+  color: white;
+}
+
+#conclusion {
+  color: white;
+}
+
+#image {
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption, #title {
+  text-align: center;
+}
+
+caption {
+  text-align: center;
+}
